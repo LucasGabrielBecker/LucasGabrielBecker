@@ -7,8 +7,9 @@
 
 You have found me:
 
- - 😄 Im a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
- - 📊 I'm working with Users Support
+ - 😄 I'm a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
+ - 📊 I'm currently working with Users Support
+ - 🤵 I'm currently looking for challenges on the web ecosystem, back, front or full stack
  - 📚 Currently studying the React ecosystem, typescript, cloud computing, docker
  - 👁‍ And i also like my dog 🐶
 
