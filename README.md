@@ -1,6 +1,6 @@
 # Lucas Becker :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-becker-5a4b31173/)](https://www.linkedin.com/in/jrmarcelo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-becker-5a4b31173/)](https://www.linkedin.com/in/lucas-becker-5a4b31173/)
 
 
 ### { "greetings" : "👋 Welcome to my profile"}
