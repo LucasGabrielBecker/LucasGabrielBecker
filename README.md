@@ -8,10 +8,9 @@
 You have found me:
 
  - 😄 I'm a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
- - 📊 I'm currently working with Users Support
+ - 📊 I'm currently working on <a href="http://matrixcargo.com.br/">MatrixCargo</a>
  - 🤵 I'm currently looking for challenges on the web ecosystem, back, front or full stack
  - 📚 Currently studying the React ecosystem, typescript, cloud computing, docker
- - 👁‍ And i also like my dog 🐶
 
 
 <hr/>
