@@ -11,6 +11,7 @@ You found me:
  - 📊 I'm currently working on <a href="http://matrixcargo.com.br/">MatrixCargo</a>
  - 🤵 I'm currently looking for challenges on the web ecosystem, back, front or full stack
  - 📚 Currently studying the React ecosystem, typescript, cloud computing, docker
+ - 🖌️ Adventuring myself on Figma.
 
 
 <hr/>
