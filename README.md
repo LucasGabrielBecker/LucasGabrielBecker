@@ -8,10 +8,9 @@
 You found me:
 
  - 😄 I'm a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
- - 📊 I'm currently working on <a href="http://matrixcargo.com.br/">MatrixCargo</a>
- - 🤵 I'm currently looking for challenges on the web ecosystem, back, front or full stack
- - 📚 Currently studying software patterns, DDD, Clean Architecture and SOLID
- - 🖌️ Adventuring myself on Figma.
+ - 📊 I'm currently working on <a href="http://matrixcargo.com.br/">MatrixCargo</a> as a Full Stack Developer
+ - 🤵 I'm currently looking for challenges on the back-end ecosystem, databases e queues.
+ - 📚 Currently studying software patterns, CQRS, DDD, Clean Architecture and SOLID
 
 
 <hr/>
