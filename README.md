@@ -27,9 +27,7 @@ You found me:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
 <img src="https://graphql.org/img/logo.svg" alt="graphQL" width="30" height="30"/>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FDocker-Logo.png&f=1&nofb=1" alt="docker" height="40"/>
- 
-
-<img src="https://svelte.dev/svelte-logo-horizontal.svg" alt="svelte" height="35"/></p>
+<img src="https://svelte.dev/svelte-logo-horizontal.svg" alt="svelte" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Web Services" height="45"/></p>
 
 
