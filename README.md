@@ -8,9 +8,8 @@
 You found me:
 
  - 😄 I'm a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
- - 📊 I'm currently working on <a href="http://matrixcargo.com.br/">MatrixCargo</a> as a Full Stack Developer
- - 🤵 I'm currently looking for challenges on the back-end ecosystem, databases e queues.
- - 📚 Currently studying software patterns, CQRS, DDD, Clean Architecture and SOLID
+ - 📊 I'm currently working on <a href="https://www.sitana.pt/pt/">Sitana</a> as a react native developer
+ - 📚 Currently studying software patterns Clean Architecture, SOLID & React native for windows.
 
 
 <hr/>
