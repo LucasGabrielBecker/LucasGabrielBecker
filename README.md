@@ -2,11 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-becker-5a4b31173/)](https://www.linkedin.com/in/lucas-becker-5a4b31173/)
 
-
-### { "greetings" : "👋 Welcome to my profile"}
-
-You found me:
-
  - 😄 I'm a really excited and passionate programmer, who loves to solve problems, specially the ones that would solve someone lifes problem
  - 📊 I'm currently working on <a href="https://www.matrixcargo.com.br/">MatrixCargo</a> as a Full Stack developer
  - 📚 Currently studying software patterns like Clean Architecture, SOLID & Golang.
