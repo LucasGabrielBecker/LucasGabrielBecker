@@ -4,7 +4,7 @@
 
  - 😄 I solve problems
  - 📊 I'm currently working on <a href="https://www.matrixcargo.com.br/">MatrixCargo</a> as a Full Stack developer
- - 📚 Currently studying software Software Architecture and patterns like Event Sourcing, Event-driven applications and Event modeling.
+ - 📚 Currently studying DDD, Software Architecture and patterns like Event Sourcing, Event-driven applications and Event modeling.
 
 
 <hr/>
